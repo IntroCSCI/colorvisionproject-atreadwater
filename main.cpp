@@ -15,7 +15,7 @@ cin >> filename;
 
 reader.open (filename, ios::in);
   if ( reader.is_open() ) {
-    cout << " File has opened.\n";
+    cout << "File has opened.\n";
   
   while ( !reader.eof() ); 
     getline(reader,color);

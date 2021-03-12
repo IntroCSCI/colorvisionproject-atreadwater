@@ -1,7 +1,9 @@
 What are you, colorblind?! 
 
 Get help seeing the world in color!
+
 ### v0.2 Updates
+
 
 *Coming soon*
 
@@ -13,6 +15,7 @@ Get help seeing the world in color!
 ## Developer
 
 Andrew Treadway
+
 ## Example
 
 To run the program, give the following commands:
@@ -32,23 +35,23 @@ Here is an example of the program running:
 
 ### Variables and Data Types
 
-!!!Replace with a summary and examples of how multiple variables have been used with a variety of data types and why they have been used effectively and appropriately!!!
+The data types that are used are string and fstream which each have their own respected data types.
 
 ### Console Input and Output
 
-!!!Replace with a summary and examples of how input and output have been used effectively and appropriately!!!
+To begin with the program, the cmputer prompts the user for a file to be opened. The user inputs the name of a specific file.
 
 ### Decisions
 
-!!!Replace with a summary and examples of how multiple decision constructs have been used effectively and appropriately!!!
+Depending on what the file the user inputs to be opened, the program with determine whether the file has succeessfully opened via an output message.
 
 ### Iteration
 
-!!!Replace with a summary and examples of how iteration has been used effectively and appropriately!!!
+A while-loop is used to cycle through lines of code to determine which colors are being used in the specific file.
 
 ### File Input and Output
 
-!!!Replace with a summary and examples of how input and/or output of files have been used effectively and appropriately!!!
+Based on the file the user had input, the program searches for the colors listed and will close when complete.
 
 ### Arrays/Vectors
 
