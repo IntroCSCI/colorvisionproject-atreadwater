@@ -1,9 +1,6 @@
-# !!!Replace with your unique project name!!!
+What are you, colorblind?! 
 
-## Description
-
-!!!Replace with a description of what your program does!!!
-
+Get help seeing the world in color!
 ### v0.2 Updates
 
 *Coming soon*
@@ -15,8 +12,7 @@
 
 ## Developer
 
-!!!Replace with your name!!!
-
+Andrew Treadway
 ## Example
 
 To run the program, give the following commands:
