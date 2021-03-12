@@ -28,7 +28,12 @@ g++ --std=c++11 *.cpp -o cvp
 Here is an example of the program running:
 
 ```
-!!!Replace with an example of the program running with user interaction!!!
+Computer: Enter a file name for pallete analysis.
+
+User: example.svg
+
+Computer
+
 ```
 
 ## C++ Guide
